@@ -1,3 +1,3 @@
 # Ringtail's CSS Reset
 
-A simple custom CSS reset made for personal use.
+A simple custom CSS reset made for personal use. (Currently a WIP)
