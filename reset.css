@@ -7,9 +7,14 @@
     line-height: 1.6em;
 }
 
+/* adds 2em of margin for list items */
+ul, ol {
+    margin-left: 2em;
+}
+
 /* fixes text size for pre, code, kbd, and samp tags */
 pre, code, kbd, samp {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: ui-monospace, 'Courier New', Courier, monospace;
     font-size: 1em;
 }
 
@@ -17,4 +22,14 @@ pre, code, kbd, samp {
 input, textarea, button, select, optgroup {
     font: inherit;
     font-size: 1em;
+}
+
+/* fixes line height issues with subscript and superscript */
+sub, sup {
+  line-height: 0;
+}
+
+/* removes underline from all links */
+:link {
+    text-decoration: none;
 }

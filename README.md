@@ -1,9 +1,11 @@
 # Ringtail's CSS Reset
 
-A simple custom CSS reset. (Currently a WIP)
+A simple custom CSS reset for modern browsers. (Currently a WIP)
 
-## Features
+## What it changes:
 
 - Removes all margin and padding from all elements
 - Changes default font to the default system font
 - Fixes font sizing for ``pre``, ``code``, ``kbd``, ``samp``, and all input elements
+- Fixes line height issues when using superscript or subscript elements
+- removes underlined text decoration from all links by default
