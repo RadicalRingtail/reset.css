@@ -1,7 +1,7 @@
 # Ringtail's CSS Reset
 ![GitHub](https://img.shields.io/github/license/RadicalRingtail/css-reset)
 
-A simple custom CSS reset for modern browsers. (Currently a WIP)
+A simple custom CSS reset for modern browsers, meant to make designing things easier. Still a work in progress, would not recommend for production use.
 
 ## What it changes:
 
