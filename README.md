@@ -1,4 +1,5 @@
 # Ringtail's CSS Reset
+![GitHub](https://img.shields.io/github/license/RadicalRingtail/css-reset)
 
 A simple custom CSS reset for modern browsers. (Currently a WIP)
 
